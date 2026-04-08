@@ -1,0 +1,15 @@
+name: pandas-youtube-series
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas
+  - numpy
+  - seaborn
+  - matplotlib
+  - openpyxl
+  - plotly
+  - ipykernel
+  - jupyterlab
+  - nbformat
+  - ipywidgets
